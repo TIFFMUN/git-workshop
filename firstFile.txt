@@ -20,3 +20,9 @@ git rm -f secondFile.txt
 
 - to commit 
 git commit -m "message"
+
+- to see previous commits 
+git log 
+
+- to recover a previous version (the number copy from the git log commit)
+git reset --hard d47f4cc79dc4d7248995bdedaa986ca7b3af774d
