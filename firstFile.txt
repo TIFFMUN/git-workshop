@@ -18,4 +18,5 @@ git add .
 - to remove file in repository 
 git rm -f secondFile.txt
 
-
+- to commit 
+git commit -m "message"
