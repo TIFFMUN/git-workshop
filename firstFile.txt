@@ -1,0 +1,21 @@
+- make sure u are in git bash terminal 
+
+- to initialise git 
+git init 
+
+- to add git 
+git add firstFile.txt
+
+- to check git status
+git status
+
+- to undo git change 
+git rm --cached firstFile.txt
+
+- to add all files in repository 
+git add .
+
+- to remove file in repository 
+git rm -f secondFile.txt
+
+
