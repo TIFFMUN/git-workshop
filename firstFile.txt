@@ -26,3 +26,8 @@ git log
 
 - to recover a previous version (the number copy from the git log commit)
 git reset --hard d47f4cc79dc4d7248995bdedaa986ca7b3af774d
+
+to link to existing repository on github 
+git remote add origin https://github.com/TIFFMUN/git-workshop.git
+git branch -M main
+git push -u origin main
